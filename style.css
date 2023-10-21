@@ -1,0 +1,25 @@
+@media only screen and (max-width:700%){
+    [class*="col-"]
+    {
+        width:700%
+    }
+}
+
+.content{
+    border: 5px double;
+    text-align: center;
+    margin: 100px 20px 20px 20px ;
+    padding: 10px;
+}
+
+*{
+    background-color:black;
+}
+
+*{
+    color: antiquewhite;
+}
+
+*{
+    font-family:cursive;
+}
